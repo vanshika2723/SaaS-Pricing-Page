@@ -35,8 +35,5 @@ I started by designing a clean layout focusing on SaaS conversion principles. Th
 
 ---
 
-## 🚀 Live Demo
-(Your deployed link here)
-
 ## 📌 Author
-Your Name
+Vanshika Khandelwal
